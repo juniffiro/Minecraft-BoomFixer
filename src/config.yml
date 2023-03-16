@@ -1,0 +1,5 @@
+settings:
+  enabledPlugin: false
+  disable:
+    explode: false
+    explodeDamage: false

@@ -1,0 +1,7 @@
+name: BoomFixer
+version: 1.0.0
+author: Juniffiro
+main: ua.juniffiro.ms.boomfixer.Main
+commands:
+  bfreload:
+    description: Reload config
